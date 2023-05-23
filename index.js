@@ -15,6 +15,7 @@ inquirer
         type: 'input',
         name: 'text',
         message: 'Enter the 3 character text for the logo',
+        // Will display the return if less than 3 characters inputted
         validate: function(text) {
             if (text.length < 3) {
                 return 'Please put in 3 letters!'
@@ -54,6 +55,7 @@ inquirer
     err ? console.log(err) : console.log('Please try again')
     );
 })
+// Output text is printed if logo.svg successfully created
 .then(() => {
     console.log('Generated logo.svg!')
 })
