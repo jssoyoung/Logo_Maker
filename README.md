@@ -6,7 +6,7 @@ This project is a logo maker. When the user opens this project on a command-line
 
 Here is the link to the github for this project: https://github.com/jssoyoung/Logo_maker
 
-Here is the link to my walkthrough video of the project: 
+Here is the link to my walkthrough video of the project: https://drive.google.com/file/d/1FA2pWq2usSJgipZyIHMgxaw42CPwI47_/view
 
 ## Installation
 
